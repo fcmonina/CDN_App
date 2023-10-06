@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDN_App", "CDN_App\CDN_App.csproj", "{9916F140-1093-4BDD-AD3E-3263EF1EC72C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9916F140-1093-4BDD-AD3E-3263EF1EC72C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9916F140-1093-4BDD-AD3E-3263EF1EC72C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9916F140-1093-4BDD-AD3E-3263EF1EC72C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9916F140-1093-4BDD-AD3E-3263EF1EC72C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D52C544-9063-43CE-B034-DD199B5E033A}
+	EndGlobalSection
+EndGlobal
